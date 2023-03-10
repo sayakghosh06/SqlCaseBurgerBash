@@ -1,1 +1,1 @@
-# SqlCaseBurgerBash
+# Sql Case Study BurgerBash
